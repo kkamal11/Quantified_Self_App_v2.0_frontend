@@ -1,4 +1,4 @@
-# Quantified_Self_App_v2.0 [Live site](https://trackerfriend.netlify.app)
+# Quantified_Self_App_v2.0 <a href='https://trackerfriend.netlify.app' target='_blank'>Live site</a>
 
 This is the frontend of my Quantified-Self web application. The site is built using:
 - HTML
@@ -9,4 +9,4 @@ This is the frontend of my Quantified-Self web application. The site is built us
 - Vue-Router
 - Vuex
 
-## [The backend can be found here.]()
+  ## <a href='#'>The backend can be found here.</a>
